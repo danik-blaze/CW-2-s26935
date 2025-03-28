@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.AssemblyInfo.cs
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\bin\Debug\net8.0\ContainerManagement.exe
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\bin\Debug\net8.0\ContainerManagement.deps.json
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\bin\Debug\net8.0\ContainerManagement.runtimeconfig.json
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\bin\Debug\net8.0\ContainerManagement.dll
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\bin\Debug\net8.0\ContainerManagement.pdb
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.dll
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\refint\ContainerManagement.dll
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.pdb
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ContainerManagement.genruntimeconfig.cache
+C:\Users\user\source\repos\ContainerManagement\ContainerManagement\obj\Debug\net8.0\ref\ContainerManagement.dll
